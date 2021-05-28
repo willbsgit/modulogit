@@ -1,0 +1,11 @@
+git commit -m ou -am "status do que eu mudar"
+git status ( para ver o que eu mudei e se esta sendo monitorado)
+git add -A (para salvar os arquivos a serem alterados)
+git status (novamente)
+git commit -m ( para criar o segundo commit)
+git log (para ver os commits) 
+git branch (ver qual estou presente)
+git reset --soft ( voltar com as alterações preparadas) (mixed e hard
+git branch teste
+git branch checkout master
+git branch -D 
